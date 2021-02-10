@@ -6,6 +6,7 @@ Problem statements:
 1. find the busiest day. i.e on ehich we receive highest number of mails.
 2. Plot the busiest day.
 3. Plot the distribution by hours of sent messages seperately for each day, and then overlay the plots for each day.
+4. Data cleaning, visualization and analysis
 
 Dataset: 1. mbox-anonymized.csv - keeps mail record(for problem 1 and 2)
          2. mbox-cleaned.csv - cleaned dataset(for problem 3)
